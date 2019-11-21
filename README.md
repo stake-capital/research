@@ -1,2 +1,1 @@
-# research
-All research stuff related to Stake Capital 
+Paper: Stake Capital DAO Light Paper.pdf
